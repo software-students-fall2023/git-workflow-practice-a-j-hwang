@@ -9,3 +9,8 @@ Tha article indicates that the main chellange faced by AI chatbots is **the comp
 It surprised me to acknowledge that AI chatbots and related technologies has been so massively progressed, that we are by far done with the usual discussion of 'how useful it is' or 'where to use them' and now considering 'how similar it should / can be to humans'. 
 
 On the other note, it was interesting learn about AI usage in game development, particularly in the creation of non-player characters (NPCs). It will be great to have a interpersonal, human-like connection with game characters, but I'd say there's definitely some ethical dilemmas related in this matter. 
+
+
+
+#Marwan's:
+Honestly what I was thinking of most of the time is how **prompt engineers** are just people who wanted to create a new job market in which the amount of people in it are ver very low so they get hired in a job that basically didn't exist and should not even exist.
